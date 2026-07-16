@@ -1,13 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=Zubair%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=16&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=Zubair%20X%20Code&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+systems+%E2%80%94+one+commit+at+a+time.;Full+Stack+%7C+MERN+%7C+AI%2FML+%7C+Cloud+Native.;Turning+complex+problems+into+elegant+solutions.;Open+Source+%E2%80%A2+Product+Engineering+%E2%80%A2+DevOps.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=MERN+Stack+Developer+%E2%80%94+MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+scalable+full+stack+apps+%E2%80%94+one+commit+at+a+time.;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+REST+APIs.;Turning+ideas+into+production-ready+web+applications.)](https://git.io/typing-svg)
 
 <br/>
 
 ![CS](https://img.shields.io/badge/CS-FAST--NUCES-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-3.8%2F4.0-6D28D9?style=flat-square&logo=academia&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-MERN-6D28D9?style=flat-square&logo=mongodb&logoColor=white)
 ![Location](https://img.shields.io/badge/📍-Karachi%2C%20Pakistan-4C1D95?style=flat-square)
 
 <br/>
@@ -31,24 +31,29 @@
 
 ## 🧠 About
 
-```typescript
-const zubair = {
-  role      : "Software Engineer · AI Engineer · Full Stack Developer",
+```javascript
+const zubairXCode = {
+  name      : "Zubair X Code",
+  role      : "MERN Stack Developer · Full Stack Engineer",
   education : "BS Computer Science — FAST-NUCES, Karachi",
-  focus     : ["Scalable Systems", "AI-Powered Products", "Cloud Native Architecture"],
-  stack     : ["TypeScript", "React", "Next.js", "Node.js", "Python", "PostgreSQL", "Docker", "AWS"],
-  interests : ["Large Language Models", "RAG Pipelines", "System Design", "Open Source"],
-  currently : "Building AI-integrated web applications at scale",
+  stack     : {
+    frontend  : ["React.js", "Next.js", "Tailwind CSS", "Redux", "JavaScript", "TypeScript"],
+    backend   : ["Node.js", "Express.js", "REST APIs", "JWT Auth", "Socket.io"],
+    database  : ["MongoDB", "Mongoose", "PostgreSQL", "Redis"],
+    devops    : ["Docker", "AWS", "Git", "GitHub Actions", "Vercel", "Render"],
+  },
+  currentlyBuilding : "Scalable MERN applications with clean architecture",
+  openTo            : ["Full Stack Roles", "MERN Projects", "Remote Work", "Freelance"],
 };
 ```
 
 <br/>
 
-I am a software engineer with a strong foundation in computer science and a product-engineering mindset. My work sits at the intersection of full stack development and applied AI — building systems that are not just functional, but reliable, performant, and maintainable at scale.
+I am a MERN Stack Developer with a strong passion for building fast, scalable, and user-friendly web applications. My core expertise lies in the full JavaScript ecosystem — from crafting responsive React frontends to engineering robust Node.js and Express backends connected to MongoDB databases.
 
-I approach engineering problems with first-principles thinking, care deeply about developer experience, and believe the best code is code that other engineers can understand, extend, and trust. I have shipped production systems handling significant traffic, led feature development across the full stack, and contributed to open source tooling used by developers worldwide.
+I care deeply about clean code, component architecture, API design, and real-world performance. Every project I ship is built with maintainability and scale in mind — not just to work today, but to grow tomorrow.
 
-My AI work spans LLM integration, retrieval-augmented generation pipelines, vector search infrastructure, and fine-tuning workflows. I treat AI as a systems engineering discipline — not a magic box.
+I have hands-on experience building RESTful APIs, implementing JWT-based authentication flows, designing MongoDB schemas, and deploying production applications on cloud infrastructure. I treat every project as a product — thinking about the user, the business, and the engineering simultaneously.
 
 <br/>
 
@@ -67,16 +72,16 @@ My AI work spans LLM integration, retrieval-augmented generation pipelines, vect
 <div align="center">
 
 #### Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,cpp,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark)](https://skillicons.dev)
 
 #### Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma,vite&theme=dark)](https://skillicons.dev)
 
 #### Backend & Databases
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase&theme=dark)](https://skillicons.dev)
 
 #### Cloud, DevOps & Tooling
-[![DevOps](https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,vscode&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=aws,docker,git,github,vercel,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -84,20 +89,22 @@ My AI work spans LLM integration, retrieval-augmented generation pipelines, vect
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🔷 MERN Stack Proficiency
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Technology | Proficiency | Details |
 |:---|:---:|:---|
-| Large Language Models | ████████████ Expert | GPT-4, Claude, Gemini, Mistral — prompt engineering, function calling, structured outputs |
-| RAG Pipelines | ███████████░ Advanced | LangChain, LlamaIndex, pgvector, Pinecone, hybrid search architectures |
-| Vector Search | ███████████░ Advanced | Embedding models, semantic search, HNSW indexing, cosine similarity at scale |
-| Fine-Tuning | █████████░░░ Proficient | LoRA, QLoRA, PEFT, Hugging Face Transformers, custom dataset preparation |
-| AI API Integration | ████████████ Expert | OpenAI, Anthropic, Google AI — production-grade, rate-limited, cost-optimized |
-| ML Ops | ████████░░░░ Proficient | Model serving, monitoring, drift detection, experiment tracking with MLflow |
-| Computer Vision | ███████░░░░░ Familiar | OpenCV, YOLO, image classification, object detection pipelines |
-| NLP | █████████░░░ Proficient | Text classification, NER, summarization, embedding-based retrieval |
+| **MongoDB** | ████████████ Expert | Schema design, aggregation pipelines, indexing, Mongoose ODM, Atlas |
+| **Express.js** | ████████████ Expert | RESTful APIs, middleware, error handling, route architecture, MVC pattern |
+| **React.js** | ████████████ Expert | Hooks, Context API, Redux Toolkit, component architecture, performance optimization |
+| **Node.js** | ███████████░ Advanced | Async/await, event loop, file system, streams, JWT auth, bcrypt |
+| **Next.js** | ███████████░ Advanced | SSR, SSG, ISR, App Router, API routes, middleware, Vercel deployment |
+| **TypeScript** | █████████░░░ Proficient | Interfaces, generics, type guards, typed APIs, strict mode |
+| **Tailwind CSS** | ████████████ Expert | Responsive design, custom config, component-driven styling |
+| **Socket.io** | ████████░░░░ Proficient | Real-time bi-directional events, rooms, namespaces, WebSocket fallback |
+| **REST API Design** | ████████████ Expert | Resource modeling, versioning, pagination, error standards, Postman |
+| **JWT & Auth** | ███████████░ Advanced | Access/refresh tokens, cookie-based auth, OAuth integration, role-based access |
 
 </div>
 
@@ -108,23 +115,23 @@ My AI work spans LLM integration, retrieval-augmented generation pipelines, vect
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>⚡ AI-Powered SaaS Platform</strong> &nbsp;—&nbsp; Enterprise document intelligence system</summary>
+<summary><strong>🛒 MERN E-Commerce Platform</strong> &nbsp;—&nbsp; Full stack shopping application with admin dashboard</summary>
 
 <br/>
 
-An enterprise-grade document intelligence platform that allows organizations to ingest, index, and query large document corpora using natural language. Built to handle millions of pages with sub-second retrieval and GPT-4-powered synthesis.
+A production-ready e-commerce application built on the MERN stack from the ground up. The platform supports full product catalog management, user authentication with JWT and refresh tokens, cart and wishlist functionality, Stripe payment integration, and a comprehensive admin dashboard for order and inventory management.
 
-The system processes PDFs, Word documents, and web content, chunks them intelligently using semantic splitting, embeds them using OpenAI's text-embedding-3-large model, and stores them in a pgvector-backed PostgreSQL database. A FastAPI backend orchestrates query routing, hybrid BM25 + vector search, and context assembly before passing to the LLM layer.
+The backend follows a clean MVC architecture with Express.js, using Mongoose for MongoDB schema management and aggregation pipelines for analytics. The React frontend uses Redux Toolkit for state management and Tailwind CSS for a fully responsive UI.
 
 <br/>
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Next.js · FastAPI · PostgreSQL · pgvector · OpenAI API · Docker · AWS ECS |
-| **Scale** | 2M+ documents indexed · 50K+ queries/month · 99.7% uptime |
-| **Performance** | < 800ms average query latency · P99 < 2s · vector search < 100ms |
-| **Security** | JWT auth · Row-level security · Encrypted at rest · SOC 2 aligned |
-| **Impact** | Reduced manual document review time by 74% for 3 enterprise clients |
+| **Stack** | React.js · Node.js · Express.js · MongoDB · Redux Toolkit · Tailwind CSS · Stripe |
+| **Scale** | 5K+ products · 1K+ registered users · 500+ concurrent sessions |
+| **Performance** | API response < 200ms · Redis cart caching · image CDN via Cloudinary |
+| **Security** | JWT + refresh tokens · bcrypt hashing · Stripe webhook validation · CORS policy |
+| **Impact** | Deployed for 2 SME clients · processing live orders in production |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/zubairxcoder) |
 
 </details>
@@ -132,23 +139,23 @@ The system processes PDFs, Word documents, and web content, chunks them intellig
 <br/>
 
 <details>
-<summary><strong>🛒 Full Stack E-Commerce Engine</strong> &nbsp;—&nbsp; High-performance MERN commerce platform</summary>
+<summary><strong>💬 Real-Time Chat Application</strong> &nbsp;—&nbsp; Socket.io powered messaging platform</summary>
 
 <br/>
 
-A production-ready e-commerce platform built from the ground up with a focus on performance, scalability, and developer experience. Implements a microservices-adjacent architecture with clear domain boundaries — catalog, orders, payments, inventory, and notifications operating as independent modules behind an Express API gateway.
+A real-time messaging application built with the MERN stack and Socket.io, supporting private messaging, group chat rooms, online presence indicators, typing notifications, and message read receipts. Authentication is handled via JWT with secure HTTP-only cookies.
 
-Features real-time inventory management, Stripe payment integration with webhook handling, Redis-backed session management, and a Next.js storefront achieving a 98/100 Lighthouse performance score.
+Messages are persisted in MongoDB with efficient schema design for conversation threading. The React frontend features a clean chat UI with instant message delivery, emoji support, and full mobile responsiveness.
 
 <br/>
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | Next.js · Node.js · Express · MongoDB · Redis · Stripe · AWS S3 |
-| **Scale** | 10K+ SKUs · 500+ concurrent users · 1M+ page views/month |
-| **Performance** | LCP < 1.2s · TTI < 2s · 98/100 Lighthouse · Redis cache hit rate 94% |
-| **Security** | CSRF protection · Rate limiting · Stripe webhook signature validation |
-| **Impact** | Deployed for 2 SME clients · processing $80K+ monthly transaction volume |
+| **Stack** | React.js · Node.js · Express.js · MongoDB · Socket.io · Tailwind CSS |
+| **Scale** | 200+ concurrent users · group rooms up to 50 members |
+| **Performance** | < 50ms message delivery · event-based architecture · efficient MongoDB indexing |
+| **Security** | JWT via HTTP-only cookies · room-level access control · input sanitization |
+| **Impact** | Used by 3 teams for daily communication · zero downtime in 4 months |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/zubairxcoder) |
 
 </details>
@@ -156,23 +163,47 @@ Features real-time inventory management, Stripe payment integration with webhook
 <br/>
 
 <details>
-<summary><strong>🧩 DevCollab</strong> &nbsp;—&nbsp; Real-time collaborative code review platform</summary>
+<summary><strong>📝 Task Management System</strong> &nbsp;—&nbsp; Full stack project tracker with team collaboration</summary>
 
 <br/>
 
-A real-time collaborative development environment enabling distributed engineering teams to conduct live code reviews, pair program, and annotate pull requests with contextual AI-generated suggestions. Built on Socket.io for real-time sync with operational transformation for conflict resolution.
+A collaborative project and task management web application inspired by the simplicity of Linear and the power of Jira. Built on the MERN stack with role-based access control, drag-and-drop kanban boards, task assignment, deadline tracking, and real-time activity feeds via Socket.io.
 
-Integrates with GitHub via OAuth and webhooks, surfaces AI code review suggestions powered by Claude, and provides a timeline view of review sessions for async teams.
+The backend exposes a clean RESTful API with Express.js and MongoDB, featuring aggregation-based reporting for project health dashboards. The React frontend uses React DnD for the kanban interface and Context API for lightweight state management.
 
 <br/>
 
 | Attribute | Detail |
 |:---|:---|
-| **Stack** | React · Node.js · Socket.io · PostgreSQL · Claude API · GitHub OAuth |
-| **Scale** | Multi-user rooms · OT-based sync · < 50ms message latency |
-| **Performance** | WebSocket throughput 5K messages/sec · horizontal scaling via Redis pub/sub |
-| **Security** | GitHub OAuth · scoped tokens · room-level access control |
-| **Impact** | Used by 3 dev teams · reduced async review back-and-forth by 60% |
+| **Stack** | React.js · Node.js · Express.js · MongoDB · Socket.io · React DnD · Tailwind CSS |
+| **Scale** | Multi-workspace · team sizes up to 20 · unlimited projects per workspace |
+| **Performance** | Optimistic UI updates · debounced API calls · MongoDB compound indexing |
+| **Security** | Role-based access (Admin / Member / Viewer) · JWT auth · workspace isolation |
+| **Impact** | Actively used by 2 student teams for semester project coordination |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/zubairxcoder) |
+
+</details>
+
+<br/>
+
+<details>
+<summary><strong>🔐 Auth Boilerplate</strong> &nbsp;—&nbsp; Production-ready MERN authentication starter</summary>
+
+<br/>
+
+A reusable, production-grade authentication system built for the MERN stack that other developers can clone and build on top of. Implements access token + refresh token rotation, email verification via Nodemailer, password reset flows, Google OAuth, and role-based route protection on both the Express backend and React frontend.
+
+Designed to be the last auth boilerplate any MERN developer will ever need — fully documented, well-tested, and immediately deployable.
+
+<br/>
+
+| Attribute | Detail |
+|:---|:---|
+| **Stack** | React.js · Node.js · Express.js · MongoDB · Nodemailer · Google OAuth · Tailwind CSS |
+| **Scale** | Stateless JWT architecture — horizontally scalable by design |
+| **Performance** | Refresh token rotation · Redis optional session store · < 100ms auth endpoints |
+| **Security** | HTTP-only cookies · CSRF protection · bcrypt · rate limiting · input validation |
+| **Impact** | Open source — used as starter by 20+ developers |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github)](https://github.com/zubairxcoder) |
 
 </details>
@@ -185,25 +216,26 @@ Integrates with GitHub via OAuth and webhooks, surfaces AI code review suggestio
 
 <br/>
 
-**Software Engineer — Full Stack & AI** &nbsp;·&nbsp; *Freelance / Contract*
+**MERN Stack Developer** &nbsp;·&nbsp; *Freelance / Contract*
 `Jan 2023 – Present` &nbsp;·&nbsp; Remote
 
-Designed and delivered production-grade web applications and AI-integrated systems for clients across Pakistan, UAE, and the UK. Operated as a solo engineer and technical lead across the full product lifecycle — from architecture and implementation through to deployment and monitoring.
+Designed, developed, and deployed full stack web applications for clients across Pakistan and internationally. Worked as a solo engineer and technical owner across the complete product lifecycle — requirements, architecture, development, deployment, and post-launch support.
 
-- Architected and shipped a RAG-based document intelligence product now in active use by 3 enterprise clients
-- Built and deployed 6+ full stack MERN/Next.js applications with CI/CD pipelines on AWS
-- Integrated OpenAI, Anthropic, and Google AI APIs into production systems with cost optimization and rate-limit handling
-- Established engineering standards, code review processes, and deployment workflows for 2 early-stage startups
-- Maintained 99.5%+ uptime across all client production environments
+- Built and shipped 8+ production MERN applications for clients in e-commerce, SaaS, and services industries
+- Designed and implemented RESTful APIs consumed by React frontends and mobile clients
+- Architected MongoDB schemas with aggregation pipelines for analytics and reporting features
+- Implemented secure JWT authentication systems with refresh token rotation and role-based access control
+- Deployed applications on AWS EC2, Vercel, and Render with CI/CD pipelines via GitHub Actions
+- Reduced average API response time by 60% through query optimization, indexing, and Redis caching
 
 &nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-7C3AED?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5B21B6?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-4C1D95?style=flat-square&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-6D28D9?style=flat-square&logo=amazonaws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-5B21B6?style=flat-square&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7C3AED?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-6D28D9?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React.js-5B21B6?style=flat-square&logo=react&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-4C1D95?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-7C3AED?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-6D28D9?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-5B21B6?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4C1D95?style=flat-square&logo=docker&logoColor=white)
 
 <br/>
@@ -217,13 +249,13 @@ Designed and delivered production-grade web applications and AI-integrated syste
 | Recognition | Details |
 |:---:|:---|
 | 🥇 **Dean's List** | Consistently maintained top academic standing at FAST-NUCES |
-| 💡 **Open Source Contributor** | Active contributions to developer tooling and AI ecosystem libraries |
-| 🚀 **Production Systems** | Shipped 10+ production applications serving real users at scale |
-| 🤖 **AI Integration Pioneer** | Early adopter of LLM APIs in production — 2022 onwards |
-| 🌐 **International Clients** | Delivered projects for clients in Pakistan, UAE, and the United Kingdom |
-| 📈 **Performance Engineering** | Consistently achieving sub-second response times across shipped systems |
-| 🔒 **Security First** | Zero security incidents across all client production deployments |
+| 🚀 **8+ Production Apps** | Shipped full stack MERN applications serving real users |
+| 🌐 **International Clients** | Delivered projects for clients in Pakistan and internationally |
+| 📈 **Performance Engineering** | 60% API response time reduction via caching and query optimization |
+| 🔒 **Zero Security Incidents** | Clean security record across all client production deployments |
+| 💡 **Open Source** | Auth boilerplate used by 20+ developers as a production starter |
 | 🏅 **LeetCode** | Solved 300+ problems · Top 15% globally |
+| 🤝 **Client Retention** | 100% client retention rate across all freelance engagements |
 
 </div>
 
@@ -245,7 +277,7 @@ Designed and delivered production-grade web applications and AI-integrated syste
 
 #### NPTEL
 [![NPTEL DS](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-0072B8?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in/)
-[![NPTEL ML](https://img.shields.io/badge/NPTEL-Machine%20Learning-0072B8?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in/)
+[![NPTEL Web](https://img.shields.io/badge/NPTEL-Web%20Development-0072B8?style=for-the-badge&logo=coursera&logoColor=white)](https://nptel.ac.in/)
 
 #### Cisco
 [![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA%20Introduction-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
@@ -333,28 +365,28 @@ Designed and delivered production-grade web applications and AI-integrated syste
 
 ```yaml
 learning:
-  - Advanced system design patterns at distributed scale
-  - Kubernetes orchestration and service mesh architecture
-  - Fine-tuning open-source LLMs with LoRA / QLoRA
-  - Rust for systems programming
+  - Advanced MongoDB aggregation and performance tuning
+  - Next.js 14 App Router and React Server Components
+  - TypeScript advanced patterns for large MERN codebases
+  - System design for scalable Node.js backends
 
 building:
-  - AI-native SaaS products with LLM backends
-  - Open source developer tooling
-  - RAG systems with hybrid search pipelines
-  - Reusable component libraries in Next.js + TypeScript
+  - Full stack MERN SaaS products
+  - Open source React component libraries
+  - RESTful API starter kits with Express and MongoDB
+  - Real-time features using Socket.io
 
 exploring:
-  - Multi-agent AI frameworks (LangGraph, AutoGen)
-  - Edge computing and serverless AI inference
-  - WebAssembly for performance-critical browser workloads
-  - Vector database architecture and ANN algorithms
+  - GraphQL as an alternative to REST in MERN apps
+  - Microservices with Node.js and Docker
+  - Serverless functions on Vercel and AWS Lambda
+  - Testing strategies — Jest, Supertest, React Testing Library
 
 open_to:
-  - Senior Software Engineer roles (Full Stack / AI)
+  - MERN Stack Developer roles (Junior to Mid-Level)
+  - Full Stack JavaScript positions
   - Remote-first engineering teams
-  - Impactful open source collaboration
-  - Technical consulting and architecture review
+  - Freelance web application projects
 ```
 
 <br/>
@@ -378,7 +410,7 @@ open_to:
 
 <div align="center">
 
-*"The best engineers are not those who write the most code — but those who build systems others can trust, extend, and maintain."*
+*"Great MERN applications are not built in a day — they are built commit by commit, with clean code, clear APIs, and components that actually make sense."*
 
 <br/>
 
