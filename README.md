@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=Zubair%20X%20Code&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,30&height=200&section=header&text=Zubair%20X%20Coder&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=58&descSize=16&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=MERN+Stack+Developer+%E2%80%94+MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+scalable+full+stack+apps+%E2%80%94+one+commit+at+a+time.;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB+%7C+REST+APIs.;Turning+ideas+into+production-ready+web+applications.)](https://git.io/typing-svg)
 
