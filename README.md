@@ -33,7 +33,7 @@
 
 ```javascript
 const zubairXCode = {
-  name      : "Zubair X Code",
+  name      : "Zubair X Coder",
   role      : "MERN Stack Developer · Full Stack Engineer",
   education : "BS Computer Science — FAST-NUCES, Karachi",
   stack     : {
